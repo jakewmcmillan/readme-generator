@@ -41,7 +41,7 @@ inquirer
         const filename = `${data.name.toLowerCase().split(' ').join('')}.json`;
 
         fs.writeFile(filename, json.stringify(data, null, '\t'), (err) =>
-            err ? console.log(err) : console.log('Success!')
+            err ? console.log(err) : console.log('ReadMe successfully created!')
         );
     });
 
