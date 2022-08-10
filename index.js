@@ -20,7 +20,7 @@ ${description}
 
 -[Features](#features)
 
--[How to Contribute](#how to contribute)
+-[How to Contribute](#how-to-contribute)
 
 -[Tests](#tests)
 
@@ -43,7 +43,7 @@ ${constributors}
 ## Tests
 ${test}
 ## Questions
-${username}
+[${username}]('https://github.com/ + ${username}')
 ${email}`;
 
 // TODO: Create an array of questions for user input
