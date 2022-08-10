@@ -8,6 +8,23 @@ const generateMD = ({ title, description, installation, usage, constributors, te
 ## Description
 ${description}
 ## Table of Contents
+-[Installation](#installation)
+
+-[Usage](#usage)
+
+-[Credits](#credits)
+
+-[License](#license)
+
+-[Badges](#badges)
+
+-[Features](#features)
+
+-[How to Contribute](#how to contribute)
+
+-[Tests](#tests)
+
+-[Questions](#questions)
 
 ## Installation
 ${installation}
