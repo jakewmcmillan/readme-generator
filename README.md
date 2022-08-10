@@ -1,15 +1,24 @@
 # ReadMe Generator
 
 ## Description
-
+This is an application designed to allow users to quickly generate their own detailed README.md files.  This is a unique project because it functions primarily through terminal commands.  It showcases the power of utilizing terminal commands in development.  
 ## Table of Contents
+    I. Installation
+    II. Usage
+    III. Credits
+    IV. License
+    V. Badges
+    VI. Features
+    VII. How to contribute
+    VIII. Tests
+    IX. Questions
 
 ## Installation
-go in
+
 ## Usage
-have fun
+
 ## Credits
-undefined
+[https://github.com/jakewmcmillan](https://github.com/jakewmcmillan)
 ## License
 
 ## Badges
@@ -19,7 +28,6 @@ undefined
 ## How to Contribute
 
 ## Tests
-playtest regularly
+
 ## Questions
-jake
-jake@ekaj.com
+[https://github.com/jakewmcmillan](https://github.com/jakewmcmillan)
