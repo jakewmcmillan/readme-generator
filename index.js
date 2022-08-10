@@ -2,7 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-const generateMD = ({ title, description, installation, usage, constributors, test }) =>
+const generateMD = ({ title, description, installation, usage, constributors, test, username, email }) =>
 `# ${title}
 
 ## Description
@@ -24,7 +24,10 @@ ${constributors}
 ## How to Contribute
 
 ## Tests
-${test}`;
+${test}
+##Questions
+${username}
+${email}`;
 
 // TODO: Create an array of questions for user input
 inquirer
@@ -58,6 +61,16 @@ inquirer
         type: 'input',
         name: 'test',
         message: 'What are test instrcutions for your project?'
+    },
+    {
+        type: 'input',
+        name: 'username',
+        message: 'What is your GitHub username?'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email?'
     }
 ])
 .then((answers) => {
