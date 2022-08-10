@@ -25,7 +25,7 @@ ${constributors}
 
 ## Tests
 ${test}
-##Questions
+## Questions
 ${username}
 ${email}`;
 
@@ -76,7 +76,7 @@ inquirer
 .then((answers) => {
     const mdPageContent = generateMD(answers);
 
-    fs.writeFile('README.md', mdPageContent, (err) =>
+    fs.writeFile('generated-files/README.md', mdPageContent, (err) =>
         err ? console.log(err) : console.log('Successfully created README.md')
     );
 }) ;

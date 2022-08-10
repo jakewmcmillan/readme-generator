@@ -1,13 +1,13 @@
-# Storm Count
+# ReadMe Generator
 
 ## Description
-count storm and mana
+
 ## Table of Contents
 
 ## Installation
-rituals and payoffs
+go in
 ## Usage
-go off
+have fun
 ## Credits
 undefined
 ## License
@@ -19,4 +19,7 @@ undefined
 ## How to Contribute
 
 ## Tests
-keep track of storm count
+playtest regularly
+## Questions
+jake
+jake@ekaj.com
