@@ -43,7 +43,7 @@ ${license}
 ## Tests
 ${test}
 ## Questions
-[${username}]('https://github.com/' + '${username}')
+[${username}]('https://github.com/${username}')
 
 ${email}`;
 

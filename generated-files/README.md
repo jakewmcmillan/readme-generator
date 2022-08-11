@@ -22,13 +22,13 @@ count storm and mana
 -[Questions](#questions)
 
 ## Installation
-check moxfield
-## Usage
 have fun
+## Usage
+watch me
 ## Credits
 undefined
 ## License
-Creative Commons
+Apache
 ## Badges
 
 ## Features
@@ -36,8 +36,8 @@ Creative Commons
 ## How to Contribute
 
 ## Tests
-go in
+playtest often
 ## Questions
-[jakewmcmillan@gmail.com]('https://github.com/' + 'jakewmcmillan@gmail.com')
+[jakewmcmillan]('https://github.com/jakewmcmillan')
 
 jakeekaj@jake.com
