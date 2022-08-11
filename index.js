@@ -2,7 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-const generateMD = ({ title, description, installation, usage, constributors, test, username, email }) =>
+const generateMD = ({ title, description, installation, usage, constributors, license, test, username, email }) =>
 `# ${title}
 
 ## Description
@@ -33,7 +33,7 @@ ${usage}
 ## Credits
 ${constributors}
 ## License
-
+${license}
 ## Badges
 
 ## Features
@@ -43,7 +43,8 @@ ${constributors}
 ## Tests
 ${test}
 ## Questions
-[${username}]('https://github.com/ + ${username}')
+[${username}]('https://github.com/' + '${username}')
+
 ${email}`;
 
 // TODO: Create an array of questions for user input
@@ -73,6 +74,12 @@ inquirer
         type: 'input',
         name: 'contributors',
         message: 'List any project contributors.'
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What licesnse would you like?',
+        choices: ["Apache", "Boost", "Creative Commons", "GNU"]
     },
     {
         type: 'input',

@@ -1,7 +1,7 @@
 # Storm Count
 
 ## Description
-count your storm and mana
+count storm and mana
 ## Table of Contents
 -[Installation](#installation)
 
@@ -22,13 +22,13 @@ count your storm and mana
 -[Questions](#questions)
 
 ## Installation
-go to tcgplayer
+check moxfield
 ## Usage
 have fun
 ## Credits
 undefined
 ## License
-
+Creative Commons
 ## Badges
 
 ## Features
@@ -36,7 +36,8 @@ undefined
 ## How to Contribute
 
 ## Tests
-check moxfield
+go in
 ## Questions
-[jakewmcmillan]('https://github.com/ + jakewmcmillan')
+[jakewmcmillan@gmail.com]('https://github.com/' + 'jakewmcmillan@gmail.com')
+
 jakeekaj@jake.com
