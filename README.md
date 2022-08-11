@@ -7,7 +7,7 @@ This is an application designed to allow users to quickly generate their own det
 
 -[Questions](#questions)
 ## Usage
-
+[https://www.youtube.com/watch?v=VGkeGC0IElg](https://www.youtube.com/watch?v=VGkeGC0IElg)
 
 ## Questions
 [https://github.com/jakewmcmillan](https://github.com/jakewmcmillan)
